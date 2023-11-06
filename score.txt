@@ -1,0 +1,96 @@
+neighbourhood,neighbourhood_score
+Albany Park,58
+Archer Heights,68
+Armour Square,32
+Ashburn,63
+Auburn Gresham,46
+Austin,39
+Avalon Park,47
+Avondale,69
+Back of the Yards,47
+Back of the Yards/New City,48
+Belmont Central,63
+Beverly,100
+Bridgeport,73
+Brighton Park,47
+Bucktown,83
+Burnside,51
+Calumet Heights,59
+Canaryville,56
+Chatham,58
+Chinatown,30
+Clearing,76
+Douglas,51
+Dunning,81
+East Garfield Park,37
+East Side,73
+Edgewater,73
+Edison Park,92
+Englewood,45
+Forest Glen,100
+Gage Park,47
+Garfield Ridge,80
+Gold Coast,74
+Goose Island,99
+Grand Boulevard,51
+Greater Grand Crossing,41
+Greektown,92
+Hegewisch,76
+Hermosa,67
+Humboldt Park,45
+Hyde Park,61
+Illinois Medical District,61
+Irving Park,75
+Jefferson Park,	88
+Jeffery Manor/South Deering,	68
+Kenwood,	48
+Lakeview,	74
+Lawndale,	33
+Lincoln Park,	90
+Logan Square,	65
+Magnificent Mile,	100
+Marquette Park,	53
+McKinley Park,	73
+Montclare,	78
+Morgan Park,	77
+Mount Greenwood,	98
+Near North Side,	73
+Near Southside,	73
+Noble Square,	82
+North Center/Roscoe Village,	85
+North Park,	86
+Norwood Park,	100
+O'Hare,	100
+Oakland,	68
+Oakton,	59
+Old Town,	86
+Pilsen,	63
+Portage Park,	81
+Printer's Row,	68
+Pullman,	77
+Ravenswood,	79
+Ravenswood Gardens,	68
+River East,	98
+River North,	79
+River West,	79
+Riverdale,	47
+Rogers Park,	61
+Roseland,	47
+South Chicago,	50
+South Lawndale,	51
+South Loop,	70
+South Shore,	50
+Southside,	46
+Streeterville,	91
+The Loop,	99
+Ukranian Village,	65
+United Center,	50
+University Village,	61
+Uptown,	64
+Washington Heights,	58
+Washington Park, 42
+West Garfield Park, 23
+West Ridge,	70
+Wicker Park,	79
+Wood Elsdon,	56
+Woodlawn, 52
